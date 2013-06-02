@@ -1,0 +1,79 @@
+%!PS-Adobe-3.0
+%%Creator: Adobe Fireworks CS5
+%%DocumentNeededResources: procset Adobe_level2_AI5 1.0 0
+%%+ procset Adobe_packedarray 2.0 0
+%%+ procset Adobe_cmykcolor 1.1 0
+%%+ procset Adobe_cshow 1.1 0
+%%+ procset Adobe_customcolor 1.0 0
+%%+ procset Adobe_typography_AI5 1.0 0
+%%+ procset Adobe_Illustrator_AI5 1.0 0
+%%BoundingBox:0 0 109 75
+%AI3_TemplateBox: 0 0 109 75
+%%PageOrigin:0 0
+%AI5_FileFormat 3
+%AI3_ColorUsage: Color
+%%DocumentProcessColors: Cyan Magenta Yellow Black
+%%EndComments
+%%BeginProlog
+%%EndProlog
+%%BeginSetup
+Adobe_packedarray /initialize get exec
+Adobe_cmykcolor /initialize get exec
+Adobe_cshow /initialize get exec
+Adobe_customcolor /initialize get exec
+Adobe_typography_AI5 /initialize get exec
+Adobe_Illustrator_AI5 /initialize get exec
+%%EndSetup
+1 1 1 1 0 0 0 79 128 255 Lb
+(Layer 1) Ln
+*u
+0.200 0.122 0.067 Xa
+0 XR
+19.58 37.73 m
+24.44 48.02 38.26 68.83 54.43 68.83 c
+92.45 68.83 l
+92.56 68.71 103.68 56.35 103.68 37.73 c
+103.68 19.11 92.82 6.71 92.74 6.62 c
+54.43 6.62 l
+36.63 6.62 23.05 30.54 19.58 37.73 c
+f
+96.48 1.44 m
+97.03 2.02 109.73 15.89 109.73 37.73 c
+109.73 59.57 97.03 73.44 96.48 74.02 c
+95.04 75.46 l
+55.30 75.46 l
+30.06 75.46 14.44 40.92 13.82 39.46 c
+12.96 37.73 l
+13.82 35.71 l
+14.44 34.25 30.06 0.00 55.30 0.00 c
+95.04 0.00 l
+96.48 1.44 l
+f
+*U
+0.200 0.122 0.067 Xa
+1 XR
+21.02 8.64 m
+29.95 8.64 l
+30.75 8.64 30.97 8.91 30.24 9.22 c
+22.32 12.53 12.15 30.43 8.64 37.73 c
+12.15 45.03 22.32 62.93 30.24 66.24 c
+30.97 66.55 30.75 66.82 29.95 66.82 c
+21.02 66.82 l
+20.23 66.82 16.98 63.63 16.42 63.07 c
+7.49 54.14 1.70 41.63 1.15 40.32 c
+0.00 37.73 l
+1.15 35.14 l
+1.70 33.82 7.49 21.31 16.42 12.38 c
+16.98 11.82 20.23 8.64 21.02 8.64 c
+f
+LB
+%%PageTrailer
+gsave annotatepage grestore showpage
+%%Trailer
+Adobe_Illustrator_AI5 /terminate get exec
+Adobe_typography_AI5 /terminate get exec
+Adobe_customcolor /terminate get exec
+Adobe_cshow /terminate get exec
+Adobe_cmykcolor /terminate get exec
+Adobe_packedarray /terminate get exec
+%%EOF
