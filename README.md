@@ -1,7 +1,9 @@
 assets
 ======
 
-This repo contails all the assets needed to create Trail Safe, an iOS app for hikers that enables them to enjoy the colorado countryside. We use Esri, Open Colorado, Full Contact and AlchemyAPI
+This repo contails all the assets needed to create Trail Safe, an iOS app for hikers that enables them to enjoy the colorado countryside. 
+
+We use Esri, Open Colorado, Full Contact and AlchemyAPI
 
 # Splash Screen
 
